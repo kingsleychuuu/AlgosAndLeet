@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='3Sum'/>
+        <page name='BinarySearch'/>
+        <page name='Palindrome'/>
+        <page name='MergeSort'/>
+        <page name='CommonElement'/>
+        <page name='LinkedList'/>
+        <page name='MaxSubArray'/>
+        <page name='TwoSum'/>
+        <page name='BestTimeToBuySellStock'/>
+        <page name='RemoveElement'/>
+        <page name='ReverseString'/>
+        <page name='BinaryTreeDepth'/>
+        <page name='ReverseLinkedList'/>
+        <page name='MaxConsecutiveOnes'/>
+        <page name='ContainsDuplicate'/>
+        <page name='FindPivotIndex'/>
+        <page name='PlusOne'/>
+        <page name='DoubleDominantIndex'/>
+        <page name='ProductOfArrayExceptSelf'/>
+        <page name='Rotate'/>
+        <page name='MinInRotatedArray'/>
+        <page name='SetMatrixZeroes'/>
+        <page name='FizzBuzz'/>
+        <page name='Factorial'/>
+        <page name='ReverseAlternatingWord'/>
+    </pages>
+</playground>
