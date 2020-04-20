@@ -26,5 +26,7 @@
         <page name='FizzBuzz'/>
         <page name='Factorial'/>
         <page name='ReverseAlternatingWord'/>
+        <page name='IIR'/>
+        <page name='Untitled Page'/>
     </pages>
 </playground>

@@ -13,3 +13,4 @@ func isPalindrome(word: String) -> Bool {
     return characterSet.count <= 1
 }
 
+print(isPalindrome(word: "01000"))
